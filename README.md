@@ -9,6 +9,7 @@
 
 # Step 2a: Practice data process with example data 
 * Guidline: https://www.bioinformatics.babraham.ac.uk/training/10XRNASeq/Introduction.pdf
+* R script for example: https://github.com/bishwaG/Single-cell-RNA-seq-data-analysis-2018
 
 * Pre-process using 10X cell ranger : https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ov
 
