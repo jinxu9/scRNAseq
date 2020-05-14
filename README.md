@@ -20,4 +20,12 @@
 * review for single cell data analysis : https://www.biorxiv.org/content/biorxiv/early/2018/10/08/433102.full.pdf
 
 # Step 2b: Run pipeline with real data 
+*  Setup workflow:  
+** Using R package provided by the paper: https://arc85.github.io/dragonsc/articles/dragonsc.html
+** Follow the instruction to reproduce the simulation data. 
+
+*  Processed data from Cillo et.al   /public/home/jinxu/Projects/HPV_HNSCC
+** Modify the script to read real data and do the following analysis 
+
+
 
