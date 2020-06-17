@@ -27,5 +27,12 @@
 *  Processed data from Cillo et.al   /public/home/jinxu/Projects/HPV_HNSCC
 ** Modify the script to read real data and do the following analysis 
 
+# Step3： 
+* Annotation clusters with cell type markers 
+* Quantification immune related genes for each group.
+** More source for scRNA analysis
+
+https://www.jianshu.com/p/8cee8bd4ad6f
+
 
 
